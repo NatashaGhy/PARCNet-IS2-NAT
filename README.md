@@ -1,7 +1,7 @@
 Local copy of https://github.com/polimi-ispl/2024-music-plc-challenge
 
-**A) Working of PARCNet-IS2 when ~3k samples are missing (44kHz)
-**
+**A) Working of PARCNet-IS2 when ~3k samples are missing (44kHz)**
+
 To check the working of model on ~3k missing samples
 Input : parcnet-is2/config/example_test_set/enhanced/lossy/Data_3k.wav
 Output : parcnet-is2/config/example_test_set/enhanced/Data_3k.wav
